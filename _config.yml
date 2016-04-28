@@ -1,0 +1,28 @@
+name: Jared McCluskey
+favicon: null
+layout_spectrum: 0.9626798164099455
+typography_spectrum: 0.1719423048198223
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2715644433628768
+  lightness: 0.2861769425217062
+  saturation: 0.5995540323201567
+  rhythmicContrast: 0.9352910958696157
+purpose: []
